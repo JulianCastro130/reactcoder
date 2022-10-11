@@ -20,7 +20,7 @@ const Navbar = () => {
                     </IconButton>
                     <Typography
                         sx={{ flexGrow: 1 }}
-                        variant="h6" color='white'
+                        variant="h6"
                     >
                         Power Plant
                     </Typography>

@@ -1,10 +1,10 @@
 import {createTheme} from '@mui/material'
-import { purple } from '@mui/material/colors';
+import { green } from '@mui/material/colors';
 
 const theme = createTheme({
     palette: {
         primary: {
-            main: purple[500]
+            main: green[500]
         }
     }
   });
