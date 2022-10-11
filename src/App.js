@@ -10,7 +10,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <Fragment>
         <Navbar />
-        <ItemListContainer/>
+        <ItemListContainer msg="Bienvenido"/>
       </Fragment>
     </ThemeProvider>
   );
